@@ -1,0 +1,8 @@
+# IDE Related
+#
+.idea/
+.vscode/
+
+# Compiled output
+#
+cmake-build-debug/
